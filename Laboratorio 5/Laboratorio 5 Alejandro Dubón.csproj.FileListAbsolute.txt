@@ -1,0 +1,14 @@
+C:\Users\jalej\source\repos\Laboratorio 5 Alejandro Dubón\Laboratorio 5 Alejandro Dubón\bin\Debug\net10.0\Laboratorio 5 Alejandro Dubón.exe
+C:\Users\jalej\source\repos\Laboratorio 5 Alejandro Dubón\Laboratorio 5 Alejandro Dubón\bin\Debug\net10.0\Laboratorio 5 Alejandro Dubón.deps.json
+C:\Users\jalej\source\repos\Laboratorio 5 Alejandro Dubón\Laboratorio 5 Alejandro Dubón\bin\Debug\net10.0\Laboratorio 5 Alejandro Dubón.runtimeconfig.json
+C:\Users\jalej\source\repos\Laboratorio 5 Alejandro Dubón\Laboratorio 5 Alejandro Dubón\bin\Debug\net10.0\Laboratorio 5 Alejandro Dubón.dll
+C:\Users\jalej\source\repos\Laboratorio 5 Alejandro Dubón\Laboratorio 5 Alejandro Dubón\bin\Debug\net10.0\Laboratorio 5 Alejandro Dubón.pdb
+C:\Users\jalej\source\repos\Laboratorio 5 Alejandro Dubón\Laboratorio 5 Alejandro Dubón\obj\Debug\net10.0\Laboratorio 5 Alejandro Dubón.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalej\source\repos\Laboratorio 5 Alejandro Dubón\Laboratorio 5 Alejandro Dubón\obj\Debug\net10.0\Laboratorio 5 Alejandro Dubón.AssemblyInfoInputs.cache
+C:\Users\jalej\source\repos\Laboratorio 5 Alejandro Dubón\Laboratorio 5 Alejandro Dubón\obj\Debug\net10.0\Laboratorio 5 Alejandro Dubón.AssemblyInfo.cs
+C:\Users\jalej\source\repos\Laboratorio 5 Alejandro Dubón\Laboratorio 5 Alejandro Dubón\obj\Debug\net10.0\Laboratorio 5 Alejandro Dubón.csproj.CoreCompileInputs.cache
+C:\Users\jalej\source\repos\Laboratorio 5 Alejandro Dubón\Laboratorio 5 Alejandro Dubón\obj\Debug\net10.0\Laboratorio 5 Alejandro Dubón.dll
+C:\Users\jalej\source\repos\Laboratorio 5 Alejandro Dubón\Laboratorio 5 Alejandro Dubón\obj\Debug\net10.0\refint\Laboratorio 5 Alejandro Dubón.dll
+C:\Users\jalej\source\repos\Laboratorio 5 Alejandro Dubón\Laboratorio 5 Alejandro Dubón\obj\Debug\net10.0\Laboratorio 5 Alejandro Dubón.pdb
+C:\Users\jalej\source\repos\Laboratorio 5 Alejandro Dubón\Laboratorio 5 Alejandro Dubón\obj\Debug\net10.0\Laboratorio 5 Alejandro Dubón.genruntimeconfig.cache
+C:\Users\jalej\source\repos\Laboratorio 5 Alejandro Dubón\Laboratorio 5 Alejandro Dubón\obj\Debug\net10.0\ref\Laboratorio 5 Alejandro Dubón.dll
